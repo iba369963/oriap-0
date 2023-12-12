@@ -38,7 +38,7 @@ Things you may want to cover:
 - has_many :items
 
 
-## item テーブル
+## memos テーブル
 
 | Column       | Type      | Options                        |
 | ------------ | --------- | ------------------------------ |
