@@ -7,7 +7,7 @@
   height: 100vh;
 }
 .side-bar-header {
-  height: 60px;
+  height: 63px;
   padding: 0 10px;
   background-color: #23394d;
   display: flex;
@@ -28,7 +28,7 @@
 }
 .environments {
   background-color: #000;
-  height: calc(105vh - 100px);
+  height: calc(104vh - 100px);
   padding: 0 10px;
   overflow: scroll;
 }
@@ -42,13 +42,6 @@
 }
 
 .memo {
-  background-color: #0e54d6;
-  width: calc(100vw - 200px);
-}
-.memo-header {
-  height: 0px;
-}
-.memos {
   background-color: #595f77;
-  height: calc(112.5vh - 100px);
+  width: calc(100vw - 200px);
 }
