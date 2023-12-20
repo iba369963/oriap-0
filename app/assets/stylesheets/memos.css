@@ -7,7 +7,7 @@
   height: 100vh;
 }
 .side-bar-header {
-  height: 63px;
+  height: 64px;
   padding: 0 10px;
   background-color: #23394d;
   display: flex;
@@ -43,5 +43,5 @@
 
 .memo {
   background-color: #595f77;
-  width: calc(100vw - 200px);
+  width: calc(100vw - 300px);
 }
