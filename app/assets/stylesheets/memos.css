@@ -50,19 +50,36 @@
   height: 64px;
   padding: 14px 40px;
 }
-.memos_0 {
+.memos_1 {
   border: 1px solid white;
-  /* padding: 20px; */
   margin: 10px 10px 0px 10px;
   display: flex;
 }
-.memos_0-1 {
+.memos_1-1 {
   border: 1px solid white;
   height: 30px;
   width: 100px;
   padding: 20px;
 }
-.memos_0-2 {
+.memos_1-2 {
+  border: 1px solid white;
+  height: 30px;
+  width: 100px;
+  padding: 20px;
+}
+
+.memos_2 {
+  border: 1px solid white;
+  margin: -2px 10px 0px 10px;
+  display: flex;
+}
+.memos_2-1 {
+  border: 1px solid white;
+  height: 30px;
+  width: 100px;
+  padding: 20px;
+}
+.memos_2-2 {
   border: 1px solid white;
   height: 30px;
   width: 100px;
